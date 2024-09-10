@@ -1,0 +1,26 @@
+{
+    "id": "E236F124",
+    "path": "C:/Users/ricar/workshop/code/01_Analyze-life-expectancy.R",
+    "project_path": "code/01_Analyze-life-expectancy.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1725991562671.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "53,0",
+        "scrollLine": "33"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1725991599,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1725992324718,
+    "read_only": false,
+    "read_only_alternatives": []
+}
